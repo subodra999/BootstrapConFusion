@@ -4,7 +4,7 @@ body{
 }
 
 .navbar-dark {
-     background-color: #512DA8;
+     background-color: rgb(206, 10, 10);
 }
 
 .row-header {
@@ -20,7 +20,8 @@ body{
 }
 
 .footer {
-    background-color: #41C4E9;
+    background-color: rgb(156, 16, 6);
+    color: aliceblue;
     margin: 0px auto;
     padding: 20px 0px;
 }
@@ -28,8 +29,8 @@ body{
 .jumbotron {
     padding: 70px 30px;
     margin: 0px auto;
-    background: #4dd1a9;
-    color: blueviolet
+    background: #ff2020;
+    color: rgb(238, 241, 241)
 }
 
 .address {
